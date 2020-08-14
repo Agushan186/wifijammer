@@ -1,0 +1,3 @@
+$ sudo apt install -y python-nfqueue python-scapy python-twisted nbtscan
+$ git clone https://github.com/DanMcInerney/LANs.py.git
+$ cd LANs.
